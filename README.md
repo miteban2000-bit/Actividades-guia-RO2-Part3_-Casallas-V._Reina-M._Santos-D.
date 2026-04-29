@@ -1,5 +1,8 @@
 # Actividad 7 - RViz
 
+## Objetivo
+Visualizar el robot en RViz usando ROS2 con robot_state_publisher.
+
 ## Comandos usados
 
 ```bash
