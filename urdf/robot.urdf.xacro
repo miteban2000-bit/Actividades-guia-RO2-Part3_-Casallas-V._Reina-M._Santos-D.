@@ -1,0 +1,5 @@
+ros2 run ros_gz_sim create \
+-world default \
+-file ~/ros2_ws/src/mi_robot/urdf/robot.urdf \
+-name mi_robot \
+-z 1
