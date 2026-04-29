@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>dif_bot_description</name>
+  <version>0.0.1</version>
+  <description>Descripción del robot diferencial en URDF/Xacro</description>
+  <maintainer email="esteban@example.com">Esteban</maintainer>
+  <license>Apache-2.0</license>
+
+  <depend>ament_cmake</depend>
+  <depend>launch</depend>
+  <depend>launch_ros</depend>
+  <depend>robot_state_publisher</depend>
+  <depend>rviz2</depend>
+  <depend>gazebo_ros</depend>
+  <depend>xacro</depend>
+
+
+</package>
